@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "ParkingLot",
+    "packageName": "com.skillenza.parkinglotjava",
+    "packageFolder": "com/skillenza/parkinglotjava",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "MTQ5YWRhNzYwZmQ4Y2M3ZTBkMjc2ZmI3OTNmZTIxY2FjZTY5YzMxYzQ4YjczNDAzYjFhNGI4OGZiZGU2ZmJkODIwZWI3OTZlODIzMDEzM2Y2ZGVmNDJmYjAyYjI2NGVkNzc2ODYzNjFmNDA1NzEzNmYwNDMyMjY4ODEyZjE5Njc=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "manjunathds",
+  "repository-name": "parkinglot-application"
+}
